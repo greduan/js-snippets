@@ -1,24 +1,18 @@
-This is free and unencumbered software released into the public domain.
+Copyright (c) 2017 Eduardo Lavaque <me@greduan.com>
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Permission is hereby granted by the authors of this software, to any person,
+to use the software for any purpose, free of charge, including the rights to
+run, read, copy, change, distribute and sell it, and including usage rights
+to any patents the authors may hold on it, subject to the following conditions:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+This license, or a link to its text, must be included with all copies of
+the software and any derivative works.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Any modification to the software submitted to the authors may be incorporated
+into the software under the terms of this license.
 
-For more information, please refer to <https://unlicense.org>
+The software is provided "as is", without warranty of any kind, including
+but not limited to the warranties of title, fitness, merchantability
+and non-infringement. The authors have no obligation to provide support
+or updates for the software, and may not be held liable for any damages,
+claims or other liability arising from its use.
